@@ -1,0 +1,17 @@
+.about {
+    padding: 22px;
+}
+
+.about p {
+    color: brown;
+
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 300;
+
+    margin-top: 12px;
+}
+
+.about h2 {
+    color: brown;
+}

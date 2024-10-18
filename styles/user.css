@@ -33,9 +33,22 @@
 
 .user__content h1 {
     font-size: 32px;
+    color: brown;
 }
 
 .user__content p {
     font-size: 18px;
     font-weight: 300;
+    color: brown;
+}
+
+.user__content h2 {
+    font-size: 20px;
+    color: brown;
+    padding-top: 10px;
+    font-weight: 100;
+}
+
+.user__content .opacity {
+    opacity: 0.1;
 }
